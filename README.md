@@ -8,7 +8,7 @@ pkg install root-repo -y
 pkg update
 ```
 ```
-pkg install git tsu python wpa-supplicant pixiewps iw openssl sudo -y
+pkg install git python wpa-supplicant pixiewps iw openssl sudo -y
 ```
 ```
 pip install pycryptodome
